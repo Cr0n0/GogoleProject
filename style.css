@@ -1,0 +1,109 @@
+body {
+  color: #bdc1c6 ; 
+  background-color: #202124 ;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.BanniereTop {
+  color: white ;
+  text-decoration: none;
+}
+
+.headerLink {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+  
+}
+
+.footerLink {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+
+}
+
+#header {
+  text-align: right;
+}
+
+#buttons {
+  text-align: center;
+  margin-top: 15px;
+  
+  
+}
+
+#buttons button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background-color: #303134;
+}
+
+#buttons button:hover {
+  border:1px solid white;
+}
+
+
+#main {
+  text-align: center;
+
+}
+
+
+.searchbar {
+  background-color: #303134;
+  width: 584px;
+  height: 46px;
+  border-radius: 25px;
+  font-size: 16px;
+
+}
+
+
+
+
+#footer {
+  text-align: center;
+}
+
+#pays {
+  text-align: left;
+}
+
+#footerr {
+  text-align: center;
+}
+
+#footerrr {
+  text-align: center;
+}
+
+.BanniereDown {
+  color: white ;
+  text-decoration: none;
+  margin-bottom:  15px;
+  margin-top: 25%;
+}
+
+.BanniereDownn {
+  color: white ;
+  text-decoration: none;
+  margin-top:  15px;
+  
+}
+
+.logo {
+  color: #bdc1c6;
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+}
+
+
+
+
+
